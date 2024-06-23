@@ -19,5 +19,5 @@
   <project name="fcuzzocrea/proprietary_vendor_samsung_universal9830-common" path="vendor/samsung/universal9830-common" remote="private" revision="lineage-21-qpr2"/>
   <project name="fcuzzocrea/proprietary_vendor_samsung_x1slte" path="vendor/samsung/x1slte" remote="private" revision="lineage-21-qpr2"/>
   <project name="fcuzzocrea/proprietary_vendor_xiaomi_pipa" path="vendor/xiaomi/pipa" remote="private" revision="lineage-21" />
-  <project name="LineageOS/proprietary_vendor_xiaomi_sm8250-common" path="vendor/xiaomi/sm8250-common" remote="github" revision="lineage-21" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_sm8250-common" path="vendor/xiaomi/sm8250-common" remote="github" revision="lineage-21" />
 </manifest>
